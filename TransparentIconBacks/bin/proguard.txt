@@ -1,0 +1,106 @@
+# view res/layout/all_icons_layout.xml #generated:15
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/abs__screen_action_bar.xml #generated:44
+# view res/layout/abs__screen_action_bar_overlay.xml #generated:27
+# view res/layout/abs__screen_simple.xml #generated:32
+# view res/layout/abs__screen_simple_overlay_action_mode.xml #generated:27
+# view xlarge\res/layout-xlarge/abs__screen_action_bar.xml #generated:44
+# view xlarge\res/layout-xlarge/abs__screen_action_bar_overlay.xml #generated:25
+-keep class com.actionbarsherlock.internal.nineoldandroids.widget.NineFrameLayout { <init>(...); }
+
+# view large\res/layout-large/abs__action_mode_close_item.xml #generated:17
+# view res/layout/abs__action_mode_close_item.xml #generated:17
+-keep class com.actionbarsherlock.internal.nineoldandroids.widget.NineLinearLayout { <init>(...); }
+
+# view res/layout/abs__action_menu_item_layout.xml #generated:17
+-keep class com.actionbarsherlock.internal.view.menu.ActionMenuItemView { <init>(...); }
+
+# view res/layout/abs__action_menu_layout.xml #generated:17
+-keep class com.actionbarsherlock.internal.view.menu.ActionMenuView { <init>(...); }
+
+# view res/layout/abs__popup_menu_item_layout.xml #generated:17
+-keep class com.actionbarsherlock.internal.view.menu.ListMenuItemView { <init>(...); }
+
+# view res/layout/abs__screen_action_bar.xml #generated:27
+# view res/layout/abs__screen_action_bar.xml #generated:51
+# view res/layout/abs__screen_action_bar_overlay.xml #generated:30
+# view res/layout/abs__screen_action_bar_overlay.xml #generated:53
+# view xlarge\res/layout-xlarge/abs__screen_action_bar.xml #generated:27
+# view xlarge\res/layout-xlarge/abs__screen_action_bar_overlay.xml #generated:28
+-keep class com.actionbarsherlock.internal.widget.ActionBarContainer { <init>(...); }
+
+# view res/layout/abs__action_mode_bar.xml #generated:19
+# view res/layout/abs__screen_action_bar.xml #generated:37
+# view res/layout/abs__screen_action_bar_overlay.xml #generated:41
+# view xlarge\res/layout-xlarge/abs__screen_action_bar.xml #generated:37
+# view xlarge\res/layout-xlarge/abs__screen_action_bar_overlay.xml #generated:38
+-keep class com.actionbarsherlock.internal.widget.ActionBarContextView { <init>(...); }
+
+# view res/layout/abs__screen_action_bar.xml #generated:32
+# view res/layout/abs__screen_action_bar_overlay.xml #generated:36
+# view xlarge\res/layout-xlarge/abs__screen_action_bar.xml #generated:32
+# view xlarge\res/layout-xlarge/abs__screen_action_bar_overlay.xml #generated:33
+-keep class com.actionbarsherlock.internal.widget.ActionBarView { <init>(...); }
+
+# view res/layout/abs__action_bar_home.xml #generated:17
+-keep class com.actionbarsherlock.internal.widget.ActionBarView$HomeView { <init>(...); }
+
+# view res/layout/abs__action_menu_item_layout.xml #generated:40
+-keep class com.actionbarsherlock.internal.widget.CapitalizingButton { <init>(...); }
+
+# view res/layout/abs__activity_chooser_view.xml #generated:19
+-keep class com.actionbarsherlock.internal.widget.IcsLinearLayout { <init>(...); }
+
+# view res/layout/abs__action_bar_tab.xml #generated:3
+-keep class com.actionbarsherlock.internal.widget.ScrollingTabContainerView$TabView { <init>(...); }
+
+# view res/layout/abs__action_bar_tab_bar_view.xml #generated:3
+-keep class com.actionbarsherlock.internal.widget.TabsLinearLayout { <init>(...); }
+
+# view res/layout/abs__search_view.xml #generated:84
+-keep class com.actionbarsherlock.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# view sw720dp-land\res/layout-sw720dp-land/gridview_main.xml #generated:27
+-keep class fragments.AboutThemeFragment { <init>(...); }
+
+# view AndroidManifest.xml #generated:76
+-keep class transparent.iconback.nitin.activity.AboutDev { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class transparent.iconback.nitin.activity.AboutThemeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:84
+-keep class transparent.iconback.nitin.activity.ApplyLauncherMain { <init>(...); }
+
+# view AndroidManifest.xml #generated:107
+-keep class transparent.iconback.nitin.activity.Docks { <init>(...); }
+
+# view AndroidManifest.xml #generated:186
+-keep class transparent.iconback.nitin.activity.DocksProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:119
+-keep class transparent.iconback.nitin.activity.Icons { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class transparent.iconback.nitin.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:90
+-keep class transparent.iconback.nitin.activity.Wallpaper { <init>(...); }
+
+# view res/layout/new_icons_behind.xml #generated:25
+-keep class transparent.iconback.nitin.util.PKScrollGridView { <init>(...); }
+
+# view res/layout/all_icons_layout.xml #generated:9
+-keep class transparent.iconback.nitin.util.PagerSlidingTabStrip { <init>(...); }
+
+# view land\res/layout-land/gridview_behind.xml #generated:19
+# view res/layout/gridview_behind.xml #generated:19
+# view sw600dp-land\res/layout-sw600dp-land/gridview_behind.xml #generated:19
+# view sw600dp\res/layout-sw600dp/gridview_behind.xml #generated:19
+# view sw720dp-land\res/layout-sw720dp-land/gridview_behind.xml #generated:19
+-keep class view.ScrollGridView { <init>(...); }
+
+# view res/layout/new_icons_layout.xml #generated:29
+-keep class view.TouchHighlightImageButton { <init>(...); }
+
